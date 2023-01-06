@@ -1,0 +1,5 @@
+STATIC ROUTING 
+
+NETWORK == ip address of the network segment 
+Mask == SubnetMask of Network 
+Next Hop == The connecting IP address of router connected To.
